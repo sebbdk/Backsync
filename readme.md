@@ -9,9 +9,10 @@ And read the code comments for documentation.
 
 ## Run the example
 Download the source code and run the server/main.js
-then simply open up the client/index.html
+then simply open up the client/index.html in a few browser tabs.
 
-you should now be able to use commands like:
+you should now be able to use commands in the browser console and 
+see the changes printed back to you in the tabs that has the application open.
 
 ##add a new item to the global items
 ```javascript
