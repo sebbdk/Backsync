@@ -23,7 +23,7 @@
 	messages.remove(messages.last());
 ```
 
-##get the number of messages, try adding in one tab and then run this in another
+##get the number of messages
 ```javascript
 	messages.length
 ```
