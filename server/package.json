@@ -1,0 +1,16 @@
+{
+	"name":"Backsync",
+	"version":"0.8.1",
+	"keywords":"websocket game syncronization backbone",
+	"main":"main.js",
+	"repository" : {
+		"type" : "git",
+	 	"url" : "https://github.com/sebbdk/Backsync.git"
+	},
+	"dependencies" : {
+		"socket.io": "1.0.6",
+		"requirejs": "2.1.10",
+		"underscore": "1.5.2",
+		"backbone": "1.1.0"
+	}
+}
